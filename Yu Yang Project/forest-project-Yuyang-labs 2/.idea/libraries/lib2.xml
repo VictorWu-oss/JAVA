@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/__MACOSX/forest-project-Yuyang-labs/lib/._junit-platform-commons-1.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/forest-project-Yuyang-labs/lib/._junit-jupiter-api-5.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/forest-project-Yuyang-labs/lib/._processing-experimental.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/forest-project-Yuyang-labs/lib/._opentest4j-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/forest-project-Yuyang-labs/lib/._junit-jupiter-engine-5.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/forest-project-Yuyang-labs/lib/._junit-jupiter-5.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/forest-project-Yuyang-labs/lib/._apiguardian-api-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/forest-project-Yuyang-labs/lib/._junit-jupiter-params-5.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/forest-project-Yuyang-labs/lib/._junit-platform-engine-1.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

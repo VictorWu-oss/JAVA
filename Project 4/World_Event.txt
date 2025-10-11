@@ -1,0 +1,36 @@
+1. Name: Victor Wu
+
+2. Trigger the event via mouse click
+
+3) World-Changing Event: Visualization
+- A portal will show up in proximity to the mouse and color the surrounding area 3x3 tiles black to indicate dark matter. 
+
+
+4) World Changing Event: Effect 
+- When Dude comes into proximity within 5x5 of the mouse-click, Dude will change to a Super Dude entity. 
+- Super Dude is evil, so he will actively seek out fairies and turn them into cars. 
+- Super Dude is fast and can fly through and across any obstacles.
+- Cars will remove trees completely 
+
+
+5) World-Changing Event: New Entity
+- Spawn a Soldier entity upon mouse click alongside the event.
+- I drew this entity frame by frame via a pixel art website.
+- Moves using A* algorithm 
+- It will actively seek out Super Dudes and Cars, turning them into saplings into Fairies or Saplings, using Java's random. 
+- The soldier's goal is to protect fairies.
+
+Summary:
+- Mouse-click triggers the event and turns tiles black, with a portal, and spawns a soldier.
+- Event transforms Dudes into Super Dudes
+- Super Dudes chase Fairies to turn them into Cars
+- Cars remove any Plant Entity
+- Soldiers turn Super Dudes and Cars into Fairies or Saplings using random.
+
+I had no real central theme to this project, I just wanted to see how these different entities would interact with each other. 
+
+
+
+
+
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs Completed/Lab1/Lab1.iml" filepath="$PROJECT_DIR$/Labs Completed/Lab1/Lab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs Completed/Lab5GivenFiles/Lab5GivenFiles.iml" filepath="$PROJECT_DIR$/Labs Completed/Lab5GivenFiles/Lab5GivenFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs Completed/Lab6Given/Lab6Given.iml" filepath="$PROJECT_DIR$/Labs Completed/Lab6Given/Lab6Given.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs Completed/Labs Completed.iml" filepath="$PROJECT_DIR$/Labs Completed/Labs Completed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class Work/Point class April 9th/Point class April 9th.iml" filepath="$PROJECT_DIR$/Class Work/Point class April 9th/Point class April 9th.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project 1/Project 1.iml" filepath="$PROJECT_DIR$/Project 1/Project 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project 3/Project 3.iml" filepath="$PROJECT_DIR$/Project 3/Project 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project 4/Project 4.iml" filepath="$PROJECT_DIR$/Project 4/Project 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project 2/Project2Forest/Project2Forest.iml" filepath="$PROJECT_DIR$/Project 2/Project2Forest/Project2Forest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project 2/Project2Forest-GARY/Project2Forest-GARY.iml" filepath="$PROJECT_DIR$/Project 2/Project2Forest-GARY/Project2Forest-GARY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project 2/Project2Forest-Unedited-Standard/Project2Forest-Unedited-Standard.iml" filepath="$PROJECT_DIR$/Project 2/Project2Forest-Unedited-Standard/Project2Forest-Unedited-Standard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class Work/RefactoringHandOut/RefactoringHandOut.iml" filepath="$PROJECT_DIR$/Class Work/RefactoringHandOut/RefactoringHandOut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project 2/SMALLWRLD VWU/SMALLWRLD VWU.iml" filepath="$PROJECT_DIR$/Project 2/SMALLWRLD VWU/SMALLWRLD VWU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Streamhandout/Streamhandout.iml" filepath="$PROJECT_DIR$/Streamhandout/Streamhandout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class Work/Week 1/Week 1.iml" filepath="$PROJECT_DIR$/Class Work/Week 1/Week 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Yu Yang Project/Yu Yang Project.iml" filepath="$PROJECT_DIR$/Yu Yang Project/Yu Yang Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZIPPED Turn In/ZIPPED Turn In.iml" filepath="$PROJECT_DIR$/ZIPPED Turn In/ZIPPED Turn In.iml" />
+    </modules>
+  </component>
+</project>

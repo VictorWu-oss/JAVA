@@ -1,0 +1,11 @@
+The overall project was done step by step together. We ensured that each of us understood every step of the A* pathing algorithm and how to apply it to both SmallWorld and Project 3. After each of us used the algorithm on our projects, we created a final version.
+
+Gary:
+Applied and revised A* Pathing algorithm from SmallWorld to work on Project 3
+Applied A* to own Project
+Wrote test cases for Project 3
+
+Victor: 
+Developed and applied A* Pathing algorithm onto the SmallWorld with comments
+Applied A* Star to own Project
+Wrote test cases for Project 3

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="ZIPPED Given Files">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ZIPPED Given Files/Lab7GivenFiles.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ZIPPED Given Files/SmallWorldGivenCode.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ZIPPED Given Files/Lab5GivenFiles.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ZIPPED Given Files/Lab8Helper.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ZIPPED Given Files/Lab3GivenFiles.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
